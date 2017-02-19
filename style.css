@@ -1,15 +1,15 @@
-body, html {
-    margin: 50px 200px;
-}
-html {
-    min-width: 460px;
-    border: 2px solid red;
-}
+/*body, html {*/
+    /*margin: 50px 200px;*/
+/*}*/
+/*html {*/
+    /*min-width: 460px;*/
+    /*border: 2px solid red;*/
+/*}*/
  body {
      /*width: 100%;*/
      /*display: block;*/
      min-width: 60px;
-     border: 2px solid black;
+     /*border: 2px solid black;*/
      text-align: center;
  }
 header {
