@@ -2,7 +2,7 @@ body, html {
     margin: 50px 200px;
 }
 html {
-    min-width: 260px;
+    min-width: 460px;
     border: 2px solid red;
 }
  body {
