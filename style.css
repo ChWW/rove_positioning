@@ -17,15 +17,15 @@ header {
     position: relative;
     height: 100%;
     min-height: 70px;
-    background: blue;
-    color: white;
+    background: #bfd8d2;
+    /*color: white;*/
 }
 .section1 {
     position: relative;
     width: 100%;
     height: 50px;
     margin-top: 10px;
-    background: yellow;
+    background: #dcb239;
 }
 
 .section2 {
@@ -38,7 +38,7 @@ header {
     /*clear: both;*/
     margin-left: auto;
     margin-right: auto;
-    background: darkolivegreen;
+    background: #df744a;
     color: white;
 }
 
@@ -46,7 +46,7 @@ header {
     height: 120px;
     width: 100%;
     margin-top: 10px;
-    background: gray;
+    background: #f19f4d;
     color: white;
 }
 
@@ -67,5 +67,5 @@ footer {
     margin-left: auto;
     margin-right: auto;
     margin-top: 10px;
-    background: #a7ff82
+    background: #4484ce
 }
